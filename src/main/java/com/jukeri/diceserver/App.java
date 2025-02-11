@@ -1,3 +1,5 @@
+package com.jukeri.diceserver;
+
 import com.sun.net.httpserver.HttpExchange;
 import com.sun.net.httpserver.HttpHandler;
 import com.sun.net.httpserver.HttpServer;
@@ -8,7 +10,7 @@ import java.util.List;
 
 
 // Driver Class
-public class Server 
+public class App 
 {
     // Main Method
     public static void main(String[] args) throws IOException 

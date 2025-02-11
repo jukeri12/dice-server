@@ -1,6 +1,9 @@
+package com.jukeri.diceserver;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
+
 
     public class Roller {
         public List<Integer> roll(int dice) {
